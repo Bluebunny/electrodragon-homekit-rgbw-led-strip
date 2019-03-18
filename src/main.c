@@ -1,9 +1,8 @@
 //
 //  main.c
-//  esp-homekit-rgbw-strip
+//  electrodragon-homekit-rgb-led-strip
 //
-//  Created by David B Brown on 16/06/2018.
-//  Copyright © 2018 maccoylton. All rights reserved.
+//  Created by Lizzus on 18/03/2019.
 //
 /*
  * This is an example of an rgb led strip using Magic Home wifi controller
@@ -49,7 +48,7 @@
 // and apply the four other parameters in the accessories_information section
 
 #include "ota-api.h"
-#define DEVICE_MANUFACTURER "David B Brown"
+#define DEVICE_MANUFACTURER "Lizzus"
 #define DEVICE_NAME "Led Strip"
 #define DEVICE_MODEL "RGBW"
 #define DEVICE_SERIAL "12345678"
